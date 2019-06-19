@@ -98,5 +98,5 @@ CLMS는 정보가 디지털 저작물에 대한 체계적인 관리를 위해 �
 ### 신뢰 실행 환경 (TEE; Trusted Execution Environment)
 프로세서 내에 일반 영역(normal area)과 다른 보안 영역(secure area)을 제공함으로서, 보안 관련 애플리케이션(application)이 다른 애플리케이션의 영향을 받지 않고 안전하게 실행될 수 있도록 조성된 환경을 의미한다.
 
-### 신뢰 플랫폼 모듈 (TRM; Trusted Platform Module)
+### 신뢰 플랫폼 모듈 (TPM; Trusted Platform Module)
 국제산업표준단체인 TCG(Trusted Computing Group)에서 소프트웨어만으로 운영되는 보안 기술의 한계점을 인식하고 이를 해결하기 위해 내놓은 표준 규격으로, 암호화된 키, 패스워드, 디지털 인증서와 같이 보안을 필요로 하는 중요한 데이터를 하드웨어적으로 분리된 안전한 공간에 저장하여 키(key)의 관리나 암호화 처리 등을 해당 보안 장치 내부에서만 처리하도록 하는 강력한 보안 환경을 제공하는 모듈이다.
